@@ -42,11 +42,4 @@ A high-performance inventory management UI built with **Angular**, focused on sp
 🔗 https://github.com/ronaldz012/inventory_system  
 
 ---
-
-## 📊 GitHub Stats
-![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldz012&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldz012&layout=compact&theme=dardecoupleddecoupledk)
-
----
-
 *"Software is a system. Optimization is a habit."*
