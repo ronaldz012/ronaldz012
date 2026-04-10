@@ -1,4 +1,4 @@
-# Ronald Aleksei Zepita Iquize | Backend (full stack in progress)
+# Ronald Zepita | Backend dev (full stack in progress)
 ### ⚙️ Engineering Rigor meets Software Excellence
 I am a **Mechatronics Engineer** transitioned into **Backend developer**. My background in high-precision engineering allows me to treat software not just as code, but as a mission-critical system. I specialize in building scalable architectures that prioritize **decoupling, maintainability, and business value.**
 
