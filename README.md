@@ -1,7 +1,6 @@
-# Ronald Aleksei Zepita Iquize | Backend & DevOps Engineer
-
+# Ronald Aleksei Zepita Iquize | Backend (full stack in progress)
 ### ⚙️ Engineering Rigor meets Software Excellence
-I am a **Mechatronics Engineer** transitioned into **Backend & DevOps Development**. My background in high-precision engineering allows me to treat software not just as code, but as a mission-critical system. I specialize in building scalable architectures that prioritize **decoupling, maintainability, and business value.**
+I am a **Mechatronics Engineer** transitioned into **Backend developer**. My background in high-precision engineering allows me to treat software not just as code, but as a mission-critical system. I specialize in building scalable architectures that prioritize **decoupling, maintainability, and business value.**
 
 ---
 
@@ -16,33 +15,51 @@ I don't just use tools; I master my environment to maximize efficiency.
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Primary Backend** | **.NET 8/9**, C#, Java (Spring Boot) |
+| **Primary Backend** | **.NET 8/9**, C#, python django |
 | **Frontend** | **Angular 21** (Signals, SSR, Reactive Forms), TypeScript |
 | **Python Ecosystem** | Django, PyQt, AI Image Detection |
 | **Infrastructure** | Linux (Arch/Server), Bash Scripting, CI/CD, Git |
-| **Data** | MongoDB, SQL Server, PostgreSQL |
+| **Data** |  SQL Server, PostgreSQL, MariaDb,MongoDB  |
 
 ---
 
 ## 🏗️ Key Projects
 
-### 📂 DriveCoreSystem (CloudShare)
-A high-performance cloud storage solution built with a **decoupled micro-module architecture**.
-* **The Challenge:** Designing a system resilient to future transitions. I implemented advanced transversal utilities for error handling and response standardizatiodecoupledn.
-* **Tech:** .NET Core, Spring Boot, MongoDB, Clerk Auth, Angular.
-* **Outcome:** A highly flexible system capable of scaling across different backend environments while maintaining a unified frontend experience.
+### 📂 DriveCore System (Modular Monolith Backend)
+A robust Auth–MultiBranch–Inventory backend built with a **modular monolith architecture** using .NET.  
+* **The Challenge:** Maintain strict module decoupling while supporting independent databases and scalable architecture.  
+* **Tech:** .NET 8, PostgreSQL, Entity Framework  
+* **Outcome:** A highly maintainable system with contract-based module communication, ready for microservice evolution.  
+🔗 https://github.com/ronaldz012/DriveCore.System.Monolith  
+
+---
+
+### 🖥️ Inventory System (Frontend)
+A high-performance inventory management UI built with **Angular**, focused on speed and complex workflows.  
+* **The Challenge:** Handle advanced inventory flows (variants, multi-branch, keyboard-driven input) with a responsive UX.  
+* **Tech:** Angular, TypeScript, JWT, Reactive Forms  
+* **Outcome:** A fast, modular frontend optimized for real-time stock management and power-user efficiency.  
+🔗 https://github.com/ronaldz012/inventory_system  
+
+---
+
+### 📦 Inventory System
+A reusable inventory and stock management module designed for integration into larger systems.  
+* **The Challenge:** Build a standalone yet pluggable inventory domain with clean separation of concerns.  
+* **Tech:** .NET Core, REST APIs  
+* **Outcome:** A scalable inventory engine that fits both independent and modular architectures.  
+🔗 https://github.com/ronaldz012/inventory_system  
 
 ---
 
 ## 📊 GitHub Stats
-![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=dark)
+![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldz012&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldz012&layout=compact&theme=dardecoupleddecoupledk)
 
 ---
 
 ## ✉️ Connect with me
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Portfolio:** [Your Website Link]
-* **Location:** Oruro, Bolivia (Available for Remote Worldwide)
+* **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/ronald-aleksei-zepita-iquize-7981a1298)
+* **Location:** Oruro, Bolivia (latin-America)(Available for Remote Worldwide)
 
 *"Software is a system. Optimization is a habit."*
