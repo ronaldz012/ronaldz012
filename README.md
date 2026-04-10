@@ -43,15 +43,6 @@ A high-performance inventory management UI built with **Angular**, focused on sp
 
 ---
 
-### 📦 Inventory System
-A reusable inventory and stock management module designed for integration into larger systems.  
-* **The Challenge:** Build a standalone yet pluggable inventory domain with clean separation of concerns.  
-* **Tech:** .NET Core, REST APIs  
-* **Outcome:** A scalable inventory engine that fits both independent and modular architectures.  
-🔗 https://github.com/ronaldz012/inventory_system  
-
----
-
 ## 📊 GitHub Stats
 ![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldz012&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldz012&layout=compact&theme=dardecoupleddecoupledk)
