@@ -58,8 +58,4 @@ A reusable inventory and stock management module designed for integration into l
 
 ---
 
-## ✉️ Connect with me
-* **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/ronald-aleksei-zepita-iquize-7981a1298)
-* **Location:** Oruro, Bolivia (latin-America)(Available for Remote Worldwide)
-
 *"Software is a system. Optimization is a habit."*
